@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sistema Bancario</string>
+    <string name="busca_extrato">Periodo(xx/xx/xxxx):</string>
+    <string name="botao_consultar">Consultar</string>
+
+    <string name="action_settings">Configuraçoes</string>
+    <string name="title_activity_main">Atividade Principal</string>
+    <string name="hello_world">Hello World</string>
+    <string name="title_activity_display_message">Mostra a Mensagem</string>
+
+
+</resources>
